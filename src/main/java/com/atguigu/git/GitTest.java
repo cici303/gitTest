@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("hello git!");
         System.out.println("This is my second modification.");
         System.out.println("This is my third modification.");
+        System.out.println("好麻烦呀");
     }
 }
